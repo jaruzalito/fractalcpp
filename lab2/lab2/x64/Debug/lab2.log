@@ -1,0 +1,4 @@
+﻿  lab2.cpp
+C:\Users\marce\source\repos\lab2\lab2\lab2.cpp(19,45): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\marce\source\repos\lab2\lab2\lab2.cpp(50,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  lab2.vcxproj -> C:\Users\marce\source\repos\lab2\x64\Debug\lab2.exe

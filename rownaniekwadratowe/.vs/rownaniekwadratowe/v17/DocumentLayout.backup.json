@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\source\\repos\\rownaniekwadratowe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8925AC-B6D9-4AEA-837B-75F8318CFFC5}|rownaniekwadratowe\\rownaniekwadratowe.vcxproj|C:\\Users\\marce\\source\\repos\\rownaniekwadratowe\\rownaniekwadratowe\\rownaniekwadratowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5B8925AC-B6D9-4AEA-837B-75F8318CFFC5}|rownaniekwadratowe\\rownaniekwadratowe.vcxproj|solutionrelative:rownaniekwadratowe\\rownaniekwadratowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rownaniekwadratowe.cpp",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\rownaniekwadratowe\\rownaniekwadratowe\\rownaniekwadratowe.cpp",
+              "RelativeDocumentMoniker": "rownaniekwadratowe\\rownaniekwadratowe.cpp",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\rownaniekwadratowe\\rownaniekwadratowe\\rownaniekwadratowe.cpp",
+              "RelativeToolTip": "rownaniekwadratowe\\rownaniekwadratowe.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T16:19:44.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

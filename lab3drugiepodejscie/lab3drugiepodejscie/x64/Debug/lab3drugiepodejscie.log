@@ -1,0 +1,4 @@
+﻿  lab3drugiepodejscie.cpp
+C:\Users\marce\source\repos\lab3drugiepodejscie\lab3drugiepodejscie\lab3drugiepodejscie.cpp(22,30): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\marce\source\repos\lab3drugiepodejscie\lab3drugiepodejscie\lab3drugiepodejscie.cpp(46,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  lab3drugiepodejscie.vcxproj -> C:\Users\marce\source\repos\lab3drugiepodejscie\x64\Debug\lab3drugiepodejscie.exe

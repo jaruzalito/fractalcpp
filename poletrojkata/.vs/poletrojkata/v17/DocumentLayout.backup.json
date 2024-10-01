@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\source\\repos\\poletrojkata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F4A1E1-1AC3-4183-9F89-D2F5360C9705}|poletrojkata\\poletrojkata.vcxproj|C:\\Users\\marce\\source\\repos\\poletrojkata\\poletrojkata\\poletrojkata.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6F4A1E1-1AC3-4183-9F89-D2F5360C9705}|poletrojkata\\poletrojkata.vcxproj|solutionrelative:poletrojkata\\poletrojkata.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "poletrojkata.cpp",
+              "DocumentMoniker": "C:\\Users\\marce\\source\\repos\\poletrojkata\\poletrojkata\\poletrojkata.cpp",
+              "RelativeDocumentMoniker": "poletrojkata\\poletrojkata.cpp",
+              "ToolTip": "C:\\Users\\marce\\source\\repos\\poletrojkata\\poletrojkata\\poletrojkata.cpp*",
+              "RelativeToolTip": "poletrojkata\\poletrojkata.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T16:37:43.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
